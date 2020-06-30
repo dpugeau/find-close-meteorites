@@ -3,6 +3,16 @@ demo code from acloud.guru Python Tutorial
 
 Code uses a Nasa API to pull down meteor data in JSON, modifies the data to add the distance from your location and finally allows you to sort by proximity 
 
+<<<<<<< HEAD
+- this creates a gray highlighting around the text indicating what you type
+
+First, install pipenv.  Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
+
 
 > this creates an indented subsection in the README on github
 
