@@ -9,5 +9,11 @@ Code uses a Nasa API to pull down meteor data in JSON, modifies the data to add 
 This project requires Python 3 and the requests package.
 
 - this creates a gray highlighting around the text indicating what you type
-`python3 find_meteors.py`
+
+First, install pipenv.  Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
 
