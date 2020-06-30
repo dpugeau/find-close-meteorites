@@ -15,9 +15,9 @@ This project requires Python 3 and the requests package.
 ## H2 Text
 ### H3 Text
 #### H4 Text
-*Italized*
-**Bold**
-`code goes in grave accents`
+*Italisized* 
+**Bold** 
+`code goes in grave accents` 
 Table Header | Second column header
 -------|----------
 Col 1 Data | Col 2 Data
