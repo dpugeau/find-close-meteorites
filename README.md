@@ -6,9 +6,6 @@ Code uses a Nasa API to pull down meteor data in JSON, modifies the data to add 
 
 > this creates an indented subsection in the README on github
 
-## Running
-This project requires Python 3 and the requests package.
-
 \` creates a gray highlighting around the text indicating what you type
 
 `python3 find_meteors.py`
